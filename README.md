@@ -1,4 +1,4 @@
-# Persist.app Issues
+# "RAM Folder.app" Issues
 
 This repository purpose is to track [RAM Folder.app](https://less-software.sh/ram-folder) issues.
 
